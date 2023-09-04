@@ -16,7 +16,7 @@ dependencies:
   flutter_svg: ^2.0.4
   get:
     git:
-      url: https://github.com/jonataslaw/getx.git
+      url: https://github.com/SonPhumrin1/get_4.6.5.git
   shared_preferences: ^2.0.20
 dev_dependencies:
   flutter_test:
